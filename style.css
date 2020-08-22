@@ -1,0 +1,29 @@
+*{
+	font-family: Varela Round;
+}
+
+body{
+	background-color:#EDEDF1;
+}
+
+#learn-more-btn:hover{
+	color:#4860A8;
+	background-color:#4860A8;
+}
+
+.footer-link{
+	color:white;
+}
+
+.footer-link:hover{
+	color:#EDEDF1;
+}
+
+.footer{
+	background-color:#303050;
+}
+
+.footer-text{
+	color:white;
+	font-family: Raleway;
+}
